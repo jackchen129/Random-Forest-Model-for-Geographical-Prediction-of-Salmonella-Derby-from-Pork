@@ -1,7 +1,7 @@
 # Geographical Prediction of *Salmonella enterica* Serotype Derby from Pork
 Random Forest Model for Geographical Prediction of *Salmonella enterica* Serotype Derby from Pork Trained Based on Gene Presence/Absence
 
-This repository contains R scripts for predicting the isolation source (*China*, *France*, *Mexico*, vs. *USA*) of *Salmonella* Derby isolates from pork using a random forest model trained on pan-genome gene presence/absence data.
+This repository contains R scripts for predicting the isolation source (*China*, *France*, *Mexico*, vs. *the United States*) of *Salmonella* Derby isolates from pork using a random forest model trained on pan-genome gene presence/absence data.
 
 ## 🧠 Workflow Overview
 1. **Data Loading & Preprocessing**  
