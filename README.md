@@ -1,6 +1,6 @@
-# Random Forest Model for Geographical Classification of *Salmonella enterica* Serotype Derby from Pork
+# Random Forest Model for Geographic Classification of *Salmonella enterica* Serotype Derby from Pork
 
-# Multiclass Geographical Classification (China vs. France vs. Mexico vs. United States)
+# Multiclass Geographic Classification (China vs. France vs. Mexico vs. United States)
 
 This repository contains R scripts for predicting the country of origin (*China*, *France*, *Mexico*, or *United States*) of pork-associated *Salmonella* Derby isolates using a random forest model trained on pan-genome gene presence/absence data.
 
@@ -38,5 +38,5 @@ R packages: `tidyverse`, `caret`, `ranger`, `readxl`, `janitor`, `pROC`, `ggplot
 ---
 
 **Citation:**  
-This workflow was developed for multiclass geographical classification of pork-associated *S.* Derby isolates based on pan-genomic features.  
+This workflow was developed for multiclass geographic classification of pork-associated *S.* Derby isolates based on pan-genomic features.  
 If used in a publication, please cite the corresponding methods description.
